@@ -8,7 +8,7 @@
 - Vimos muy por arriba qué es HTML, qué es CSS y para que nos sirven
 - Cómo vamos a usar esto para hacer una applicación?
 
-##### Slides - Presentación:
+#### Slides - Presentación:
 Las slides las pueden ver haciendo click [acá](https://ptf-houssay.github.io/taller-mobile/clase-1/slides-primer-encuentro.html)
 
 ##### Más recursos

@@ -9,6 +9,9 @@
 - Vimos cómo funciona el "modelo de caja" de css (se puede ver más [acá](http://cssreference.io/box-model/))
 - Y nos quedo pendiente agregarle algo de JS (javascript) para poder "juntar" los datos que ingrese el usuario
 
+#### Slides - Presentación:
+Las slides las pueden ver haciendo click [acá](https://ptf-houssay.github.io/taller-mobile/clase-2/slides-segundo-encuentro.html)
+
 ##### Ejemplo:
 Así quedo nuestra página al agregar el formulario:
 
@@ -28,9 +31,6 @@ Así quedo nuestra página al agregar el formulario:
   </body>
 </html>
 ```
-
-##### Slides - Presentación:
-Las slides las pueden ver haciendo click [acá](https://ptf-houssay.github.io/taller-mobile/clase-2/slides-segundo-encuentro.html)
 
 ##### Más recursos
 Referencia muy completas sobre HTML y CSS:

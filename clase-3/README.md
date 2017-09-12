@@ -8,6 +8,9 @@
 - Vimos que tipos de datos pueden guardar estas variables
 - Empezamos a usar javascript para hacer que nuestra página/app sea mas interactiva
 
+#### Slides - Presentación:
+Las slides las pueden ver haciendo click [acá](https://ptf-houssay.github.io/taller-mobile/clase-3/slides-tercer-encuentro.html)
+
 ##### Ejemplo:
 Acá les dejo un ejemplo de un formulario que al hacer click en "Enviar" imprime los datos ingresados en la consola -> http://bit.ly/form-js
 
@@ -24,9 +27,6 @@ Les recuerdo como sería una estructura ideal de nuestra página para la clase q
   </body>
 </html>
 ```
-
-##### Slides - Presentación:
-Las slides las pueden ver haciendo click [acá](https://ptf-houssay.github.io/taller-mobile/clase-3/slides-tercer-encuentro.html)
 
 ##### Más recursos
 Pueden seguir investigando sobre js en:
