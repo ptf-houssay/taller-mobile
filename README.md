@@ -31,3 +31,7 @@ Como siempre me se pueden contactar mandando un mail a juan.cuiule@bue.edu.ar
 - Introducción a javascript (hecha por Nahuel Bulla y Matias Punx)
   - [ptf-js.herokuapp.com parte 1](https://ptf-js.herokuapp.com/)
   - [ptf-js.herokuapp.com parte 2](https://ptf-js.herokuapp.com/2)
+
+### Aplicación de ejemplo
+
+Pueden ver una aplicación desarrollada por https://github.com/EzeGGonzalez hecha con HTML, CSS y Javascript usando phonegap en el siguiente [link](https://github.com/ptf-houssay/ptf-phonegap-diary)
