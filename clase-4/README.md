@@ -1,6 +1,4 @@
 # Clase 4
----
-
 ### En esta clase:
 
 - Repasamos lo que habiamos trabajado sobre el formulario
