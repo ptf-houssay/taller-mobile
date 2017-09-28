@@ -6,11 +6,12 @@ Repositorio con slides, ejemplos y proyecto del taller de desarrollo de apps mó
 - [Segunda Clase](https://ptf-houssay.github.io/taller-mobile/clase-2/)
 - [Tercer Clase](https://ptf-houssay.github.io/taller-mobile/clase-3/)
 - [Cuarta Clase](https://ptf-houssay.github.io/taller-mobile/clase-4/)
+- [Quinta Clase](https://ptf-houssay.github.io/taller-mobile/clase-5/)
 
 ### Contacto:
 
 Tenemos un slack del club y hay un Channel llamado "phonegap" que es el que vamos a estar usando.
-Pueden ingresar haciendo click [acá](http://bit.ly/slack-ptf-houssay)
+Pueden ingresar haciendo click [acá](http://bit.ly/slack-houssay)
 
 Para unirse al canal tienen que hacer click en donde dice "Channels" y buscar phonegap y elegir "Join Channel"
 También pueden enviar mensajes directos haciendo lo mismo pero con la opción "Direct Messages"

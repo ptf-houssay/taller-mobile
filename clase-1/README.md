@@ -22,7 +22,7 @@ Las slides las pueden ver haciendo click [acá](https://ptf-houssay.github.io/ta
 
 ##### Contacto
 
-Les dejo el [link](http://bit.ly/slack-ptf-houssay) para que puedan ingresar a slack aqullos que todavía no lo hicieron, ya que ahí vamos a poder estar un contacto mas directo para dudas. La idea es que se unan al "channel" de phonegapp para eso tienen que hacer click en donde dice "Channels" y buscar phonegap y elegir "Join Channel"
+Les dejo el [link](http://bit.ly/slack-houssay) para que puedan ingresar a slack aqullos que todavía no lo hicieron, ya que ahí vamos a poder estar un contacto mas directo para dudas. La idea es que se unan al "channel" de phonegapp para eso tienen que hacer click en donde dice "Channels" y buscar phonegap y elegir "Join Channel"
 
 También pueden enviar mensajes directos haciendo lo mismo pero con la opción "Direct Messages"
 
