@@ -1,0 +1,29 @@
+<html lang="en">
+
+<head>
+  <title>Guardando Datos</title>
+</head>
+
+<body>
+  <form id="form" action="none">
+    <input type="text" name="nombre" placeholder="Nombre">
+    <input type="email" name="mail" placeholder="Mail">
+    <label for="lentes">Lentes</label><input type="radio" name="tipo" value="lentes" id="lentes">
+    <label for="anteojos">Anteojos</label><input type="radio" name="tipo" value="anteojos" id="anteojos">
+    <br>
+    <span>Graduación:</span>
+    <div>
+      <label for="izq">Izquierdo</label>
+      <input type="range" step="0.25" min="0" max="10" name="izq" id="izq">
+    </div>
+    <div>
+      <label for="der">Derecho</label>
+      <input type="range" step="0.25" min="0" max="10" name="der" id="der">
+    </div>
+    <input type="button" id="guardar" value="Guardar">
+  </form>
+
+  <script src="./script.js"></script>
+</body>
+
+</html>
