@@ -1,5 +1,8 @@
 # Clase 7
 
+##### Slides - Presentación:
+Las slides las pueden ver haciendo click [acá](https://ptf-houssay.github.io/taller-mobile/clase-7/slides-clase-siete.html)
+
 ### En esta clase:
 
 - Repaso de algunas cosas de js y estructuras de control

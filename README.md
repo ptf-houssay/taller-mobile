@@ -7,6 +7,7 @@ Repositorio con slides, ejemplos y proyecto del taller de desarrollo de apps mó
 - [Tercer Clase](https://ptf-houssay.github.io/taller-mobile/clase-3/)
 - [Cuarta Clase](https://ptf-houssay.github.io/taller-mobile/clase-4/)
 - [Quinta Clase](https://ptf-houssay.github.io/taller-mobile/clase-5/)
+- [Septima Clase](https://ptf-houssay.github.io/taller-mobile/clase-7/)
 
 ### Contacto:
 
