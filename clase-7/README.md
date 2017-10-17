@@ -86,7 +86,9 @@ if (edad >= 18) {
 #### for y forEach
 
 > for: para i desde 0 hasta _ hacer ...
+
 > forEach: para cada elemento del array ejecutar la siguiente función
+
 ```javascript
 var nombres = ["Joe", "Diego", "Valentin", "Paula", "Di Maria","Julieta", "Erica", "Mariana", "Francisco"];
 
