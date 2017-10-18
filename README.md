@@ -7,6 +7,7 @@ Repositorio con slides, ejemplos y proyecto del taller de desarrollo de apps mó
 - [Tercer Clase](https://ptf-houssay.github.io/taller-mobile/clase-3/)
 - [Cuarta Clase](https://ptf-houssay.github.io/taller-mobile/clase-4/)
 - [Quinta Clase](https://ptf-houssay.github.io/taller-mobile/clase-5/)
+- [Sexta Clase](https://ptf-houssay.github.io/taller-mobile/clase-6/)
 - [Septima Clase](https://ptf-houssay.github.io/taller-mobile/clase-7/)
 
 ### Contacto:
@@ -17,7 +18,7 @@ Pueden ingresar haciendo click [acá](http://bit.ly/slack-houssay)
 Para unirse al canal tienen que hacer click en donde dice "Channels" y buscar phonegap y elegir "Join Channel"
 También pueden enviar mensajes directos haciendo lo mismo pero con la opción "Direct Messages"
 
-Como siempre me se pueden contactar mandando un mail a juan.cuiule@bue.edu.ar
+Como siempre me pueden contactar mandando un mail a juan.cuiule@bue.edu.ar
 
 ### Recuesos:
 
