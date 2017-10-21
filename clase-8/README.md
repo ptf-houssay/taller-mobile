@@ -14,9 +14,9 @@ Las slides las pueden ver haciendo click [acá](https://ptf-houssay.github.io/ta
 
 Para poder empezar a usar la base de datos y cualquier otro servicio de firebase tenemos que crear un proyecyo.
 - Para esto vamos a la  [consola de administración de firebase](https://console.firebase.google.com)
-- Copiá el código de inicialización en el archivo index.html. Lo podés hacer clickeando el logo rojo de HTML en la esquina superior derecha de la página con el nombre "Add Firebase to your web app" ("Agregar Firebase a tu app web"). El código que aparece debe ubicarse dentro de la etiqueta `<head>` del `index.html`.
+- Copiá el código de inicialización en el archivo index.html. Lo podés hacer clickeando el logo rojo de HTML en la esquina superior derecha de la página con el nombre "Add Firebase to your web app" ("Agregar Firebase a tu app web"). El código que aparece debe ubicarse dentro de la etiqueta `<head>` del `index.html`.<br>
   ![imagen botón](./pic1.png "Botón Web")
-- Empezamos a usar nuestra base de datos
+- Empezamos a usar nuestra base de datos<br>
   ![imagen comenzar db](./database.png "Comenzar DB")
 - Solo por fines practicos vamos a modificar las "Reglas" de nuestra base de datos para que cualquiera pueda leer y escribir
   Para esto vamos a la perstaña "Reglas" y dejamos la configuración de la siguiente manera
@@ -24,7 +24,7 @@ Para poder empezar a usar la base de datos y cualquier otro servicio de firebase
 
 #### Guardando datos
 
-![imagen cargnado datos](./cargando-datos.png "Cargando Datos")
+![imagen guardando datos](./guardando-datos.png "Guardando Datos")
 
 #### Consultando
 
