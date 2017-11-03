@@ -27,12 +27,28 @@ function error(err) {
 var coord = navigator.geolocation.getCurrentPosition(success, error, options);
 
 var campus = new google.maps.Marker({
-  position: { lat: -34.5988795, lng: -58.4003857 },
+  position: { lat: -34.5989402, lng: -58.3983325 },
   title: "Campus BA"
+});
+
+var ventanaInfo = new google.maps.InfoWindow({
+  content: `
+  <h1>Campus BA - Plaza Houssay</h1>
+  <p>Sede de Programá Tu Futuro</p>
+  <pre>
+  if (queresCodear) {
+    veniAProgramaTuFuturo()
+  }
+  </pre>
+  `
+});
+
+campus.addListener("click", function() {
+  ventanaInfo.open(map, campus);
 });
 
 var boton = document.getElementById("agregar-campus");
 boton.addEventListener("click", function(e) {
   e.preventDefault();
-  campus.setMap(map)
+  campus.setMap(map);
 });
