@@ -47,8 +47,17 @@ campus.addListener("click", function() {
   ventanaInfo.open(map, campus);
 });
 
-var boton = document.getElementById("agregar-campus");
-boton.addEventListener("click", function(e) {
-  e.preventDefault();
-  campus.setMap(map);
+var cmd = new google.maps.Marker({
+  position: {lat:-34.654765, lng:-58.379338},
+  title: "CMD Barracas"
 });
+
+var listaDeFerias = [
+  {position: {lat:-34.654765, lng:-58.379338}, title: "CMD"},
+  {position: { lat: -34.5989402, lng: -58.3983325 }, title: "Campus BA"}
+]
+
+listaDeFerias.forEach(function(feria) {
+  var marcador = new google.maps.Marker(feria);
+  marcador.setMap(map)
+})
